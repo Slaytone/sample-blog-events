@@ -1,0 +1,18 @@
+.create-post{
+    width: 1000px;
+    padding-left: 1px;
+    background: #fff3cd;
+    color: #533f03;
+}
+.send-post{
+    width:900px;
+    margin: 1px auto;
+
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.send-post textarea{
+    width:100%;
+    height: 200px;
+    margin: 2px auto;
+}

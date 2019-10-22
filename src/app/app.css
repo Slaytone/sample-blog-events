@@ -1,0 +1,8 @@
+.text-message{
+    background-color: #fff3cd;
+    border-bottom: 1px solid burlywood;
+}
+.close app{
+    width: 50px;
+    align-content: flex-start;
+}
